@@ -1,0 +1,22 @@
+{
+  "java.jdt.ls.java.home": "C:\\Program Files\\Android\\Android Studio\\jbr",
+  "android.sdk": "C:\\Users\\rajen\\AppData\\Local\\Android\\Sdk",
+  "java.import.exclusions": [
+    "**/node_modules/**",
+    "**/.metadata/**",
+    "**/archetype/**",
+    "**/META-INF/maven/**",
+    "**/android/**",
+    "**/build/**"
+  ],
+  "java.project.resourceFilters": [
+    "android",
+    "build"
+  ],
+  "java.import.gradle.enabled": false,
+  "java.import.maven.enabled": false,
+  "java.autobuild.enabled": false,
+  "java.project.importOnFirstTimeStartup": "disabled",
+  "gradle.autoDetect": "off",
+  "gradle.nestedProjects": false
+}
